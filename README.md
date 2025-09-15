@@ -1,7 +1,7 @@
 
   # Professional Portfolio Development
 
-  This is a code bundle for Professional Portfolio Development. The original project is available at https://www.figma.com/design/TSqjcHd7vqPU3sInkfdNcs/Professional-Portfolio-Development.
+  This is a code bundle for Professional Portfolio Development. The original project is available at https://stitch-eagle-16650226.figma.site
 
   ## Running the code
 
